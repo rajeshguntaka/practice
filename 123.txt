@@ -1,0 +1,2 @@
+s3_access
+s3_secret
